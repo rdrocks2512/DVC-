@@ -10,3 +10,4 @@
 
 ## DVC aims to replace spreadsheet and document sharing tools (such as Excel or Google Docs) frequently used as both knowledge repositories and team ledgers.DVC also replaces both ad-hoc scripts to track, move, and deploy different model versions and ad-hoc data file suffixes and prefixes.
  
+# Follow My file step by step to apply DVC on your project.
